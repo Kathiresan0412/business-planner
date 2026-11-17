@@ -6,6 +6,8 @@ const UserSchema = new Schema(
     email: { type: String, required: true, unique: true, lowercase: true, trim: true },
     passwordHash: { type: String, required: true },
     timezone: { type: String, default: "Asia/Colombo" },
+    weeklyIncomeTarget: { type: Number, min: 0, default: 0 },
+    monthlyIncomeGoal: { type: Number, min: 0, default: 0 },
   },
   { timestamps: true },
 );

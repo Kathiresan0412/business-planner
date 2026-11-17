@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Business template data
+
+Configure `MONGODB_URI`, `NEXTAUTH_SECRET`, and `NEXTAUTH_URL` in `.env.local`. To load the business plans, place `Full_90Day_Business_Plan.xlsx` in `data/`, then run:
+
+```bash
+npm run export:excel
+npm run seed
+```
+
+`export:excel` writes `data/templates.json` and `data/tasks.json`; `seed` upserts them into MongoDB. Start the app locally with `npm run dev`.
+
 ## Getting Started
 
 First, run the development server:

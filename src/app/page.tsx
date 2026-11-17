@@ -17,13 +17,8 @@ export default function Home() {
               Turn your business playbook into a daily execution system with plans, tasks, income tracking, and momentum dashboards.
             </p>
             <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-              <Link href="/login">
-                <Button className="w-full sm:w-auto">Log in</Button>
-              </Link>
-              <Link href="/register">
-                <Button variant="outline" className="w-full sm:w-auto">
-                  Create account
-                </Button>
+              <Link href="/dashboard">
+                <Button className="w-full sm:w-auto">Open planner</Button>
               </Link>
             </div>
           </div>

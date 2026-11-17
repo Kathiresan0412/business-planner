@@ -1,68 +1,135 @@
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import mongoose from "mongoose";
+import Link from "next/link";
+import { redirect } from "next/navigation";
+import { Suspense } from "react";
 
-const stats = [
-  { label: "Active plans", value: "3" },
-  { label: "Tasks done this week", value: "18" },
-  { label: "Current streak", value: "7 days" },
-  { label: "Income total", value: "₹24,500" },
-];
+import { StartPlanDialog } from "@/components/start-plan-dialog";
+import { DashboardStats } from "@/components/dashboard-stats";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { connectToDatabase } from "@/lib/db";
+import { getCurrentUser } from "@/lib/auth";
+import BusinessTemplate from "@/models/BusinessTemplate";
+import UserPlan from "@/models/UserPlan";
+
+function DashboardFallback() {
+  return (
+    <div aria-busy="true" className="space-y-6">
+      <div className="h-16 animate-pulse rounded-lg bg-slate-200 dark:bg-slate-800" />
+      <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+        {Array.from({ length: 6 }, (_, index) => (
+          <div className="h-48 animate-pulse rounded-xl bg-slate-200 dark:bg-slate-800" key={index} />
+        ))}
+      </div>
+    </div>
+  );
+}
 
 export default function DashboardPage() {
   return (
+    <Suspense fallback={<DashboardFallback />}>
+      <DashboardContent />
+    </Suspense>
+  );
+}
+
+async function DashboardContent() {
+  const user = await getCurrentUser();
+  if (!user || !mongoose.isValidObjectId(user.id)) {
+    redirect("/login");
+  }
+
+  await connectToDatabase();
+  const userId = new mongoose.Types.ObjectId(user.id);
+  const [templates, plans] = await Promise.all([
+    BusinessTemplate.find({}).sort({ number: 1 }).lean().exec(),
+    UserPlan.find({ userId }).sort({ createdAt: -1 }).lean().exec(),
+  ]);
+  const latestPlanByTemplate = new Map<string, (typeof plans)[number]>();
+  for (const plan of plans) {
+    if (!latestPlanByTemplate.has(plan.templateSlug)) {
+      latestPlanByTemplate.set(plan.templateSlug, plan);
+    }
+  }
+
+  const activePlanCount = plans.filter((plan) => plan.status === "active").length;
+
+  return (
     <div className="space-y-8">
-      <div>
-        <p className="text-sm font-medium uppercase tracking-[0.2em] text-violet-600">Overview</p>
-        <h1 className="mt-2 text-3xl font-bold tracking-tight">Dashboard</h1>
+      <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+        <div>
+          <p className="text-sm font-medium uppercase tracking-[0.2em] text-violet-600">Overview</p>
+          <h1 className="mt-2 text-3xl font-bold tracking-tight">Choose your next 90 days</h1>
+          <p className="mt-2 text-slate-600 dark:text-slate-300">
+            Start with one business idea, or continue a plan you already began.
+          </p>
+        </div>
+        <p className="text-sm text-slate-600 dark:text-slate-300">
+          {activePlanCount} active {activePlanCount === 1 ? "plan" : "plans"}
+        </p>
       </div>
 
-      <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
-        {stats.map((stat) => (
-          <Card key={stat.label}>
-            <CardHeader className="pb-2">
-              <CardTitle className="text-sm font-medium text-slate-500">{stat.label}</CardTitle>
-            </CardHeader>
-            <CardContent>
-              <p className="text-3xl font-bold">{stat.value}</p>
-            </CardContent>
-          </Card>
-        ))}
-      </div>
+      {activePlanCount >= 3 ? (
+        <div className="rounded-lg border border-amber-300 bg-amber-50 px-4 py-3 text-sm text-amber-900 dark:border-amber-900 dark:bg-amber-950/40 dark:text-amber-100">
+          Focus beats spreading thin. You already have {activePlanCount} active plans.
+        </div>
+      ) : null}
 
-      <div className="grid gap-6 lg:grid-cols-2">
+      <DashboardStats />
+
+      {templates.length === 0 ? (
         <Card>
           <CardHeader>
-            <CardTitle>Progress by plan</CardTitle>
+            <CardTitle>Your business templates are not loaded yet</CardTitle>
           </CardHeader>
-          <CardContent className="space-y-4">
-            {[
-              { name: "Content Writing", percent: 72 },
-              { name: "Social Media Management", percent: 48 },
-              { name: "Video Editing", percent: 31 },
-            ].map((plan) => (
-              <div key={plan.name}>
-                <div className="mb-2 flex items-center justify-between text-sm">
-                  <span>{plan.name}</span>
-                  <span>{plan.percent}%</span>
-                </div>
-                <div className="h-2 rounded-full bg-slate-200">
-                  <div className="h-2 rounded-full bg-violet-600" style={{ width: `${plan.percent}%` }} />
-                </div>
-              </div>
-            ))}
+          <CardContent className="space-y-2 text-sm text-slate-600 dark:text-slate-300">
+            <p>Add the workbook at data/Full_90Day_Business_Plan.xlsx, then run:</p>
+            <pre className="overflow-x-auto rounded-md bg-slate-100 p-3 dark:bg-slate-900">
+              npm run export:excel{"\n"}npm run seed
+            </pre>
           </CardContent>
         </Card>
+      ) : (
+        <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+          {templates.map((template) => {
+            const existingPlan = latestPlanByTemplate.get(template.slug);
 
-        <Card>
-          <CardHeader>
-            <CardTitle>Week summary</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <p className="text-sm text-slate-600 dark:text-slate-300">
-              This is where charts and weekly performance will appear once the data layer is connected.
-            </p>
-          </CardContent>
-        </Card>
-      </div>
+            return (
+              <Card className="h-full" key={template.slug}>
+                <CardHeader>
+                  <div className="flex items-start gap-3">
+                    <span aria-hidden="true" className="text-3xl">{template.emoji || "💼"}</span>
+                    <div className="space-y-1">
+                      <CardTitle>{template.name}</CardTitle>
+                      <p className="text-sm text-slate-500">{template.investment}</p>
+                    </div>
+                  </div>
+                </CardHeader>
+                <CardContent className="flex h-full flex-col gap-4">
+                  <div className="space-y-2 text-sm">
+                    <p><span className="font-medium">Income potential:</span> {template.incomePotential}</p>
+                    <p><span className="font-medium">First income:</span> around day {template.daysToFirstIncome}</p>
+                  </div>
+                  <div className="mt-auto">
+                    {existingPlan ? (
+                      <Link className="block" href={`/plan/${existingPlan._id.toString()}`}>
+                        <Button className="w-full" variant="outline">
+                          {existingPlan.status === "completed" ? "View plan" : "Continue"}
+                        </Button>
+                      </Link>
+                    ) : (
+                      <StartPlanDialog
+                        businessName={template.name}
+                        templateSlug={template.slug}
+                      />
+                    )}
+                  </div>
+                </CardContent>
+              </Card>
+            );
+          })}
+        </div>
+      )}
     </div>
   );
 }

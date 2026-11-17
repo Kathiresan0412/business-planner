@@ -11,7 +11,7 @@ export default function LeadsPage() {
         <h1 className="mt-2 text-3xl font-bold tracking-tight">Leads pipeline</h1>
       </div>
 
-      <div className="grid gap-4 lg:grid-cols-3 xl:grid-cols-6">
+      <div className="grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-3 xl:grid-cols-6">
         {columns.map((column) => (
           <Card key={column}>
             <CardHeader className="pb-3">

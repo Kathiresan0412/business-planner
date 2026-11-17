@@ -1,17 +1,13 @@
 import { getServerSession, type NextAuthOptions } from "next-auth";
 import CredentialsProvider from "next-auth/providers/credentials";
 import bcrypt from "bcryptjs";
-import { z } from "zod";
 
 import { connectToDatabase } from "@/lib/db";
 import User from "@/models/User";
-
-export const loginSchema = z.object({
-  email: z.string().email("Please enter a valid email."),
-  password: z.string().min(8, "Password must be at least 8 characters long."),
-});
+import { loginSchema } from "@/lib/validators/auth";
 
 export const authOptions: NextAuthOptions = {
+  secret: process.env.NEXTAUTH_SECRET,
   session: {
     strategy: "jwt",
   },
@@ -58,17 +54,14 @@ export const authOptions: NextAuthOptions = {
   ],
   callbacks: {
     async jwt({ token, user }) {
-      const jwtToken = token as typeof token & { id?: string };
-
       if (user) {
-        jwtToken.id = String(user.id ?? user.email ?? "");
+        token.id = String(user.id);
       }
 
-      return jwtToken;
+      return token;
     },
     async session({ session, token }) {
-      const sessionUser = session.user as typeof session.user & { id?: string };
-      sessionUser.id = String(token.id ?? token.sub ?? "");
+      session.user.id = String(token.id ?? token.sub ?? "");
       return session;
     },
   },

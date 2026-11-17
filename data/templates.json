@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "content-writing-and-copywriting",
+    "number": 1,
+    "name": "Content Writing & Copywriting",
+    "investment": "₹0",
+    "incomePotential": "₹15K–₹80K/mo",
+    "daysToFirstIncome": 30,
+    "sheetName": "01. Content Writing & Co",
+    "description": "",
+    "emoji": ""
+  },
+  {
+    "slug": "social-media-management",
+    "number": 2,
+    "name": "Social Media Management",
+    "investment": "₹0–₹2,000",
+    "incomePotential": "₹10K–₹50K/client",
+    "daysToFirstIncome": 35,
+    "sheetName": "02. Social Media Managem",
+    "description": "",
+    "emoji": ""
+  },
+  {
+    "slug": "video-editing-services",
+    "number": 3,
+    "name": "Video Editing Services",
+    "investment": "₹0–₹3,000",
+    "incomePotential": "₹20K–₹1L/mo",
+    "daysToFirstIncome": 28,
+    "sheetName": "03. Video Editing Servic",
+    "description": "",
+    "emoji": ""
+  },
+  {
+    "slug": "reselling-whatsapp-instagram",
+    "number": 4,
+    "name": "Reselling (WhatsApp/Instagram)",
+    "investment": "₹3K–₹8K",
+    "incomePotential": "₹8K–₹40K/mo",
+    "daysToFirstIncome": 14,
+    "sheetName": "04. Reselling (WhatsApp/",
+    "description": "",
+    "emoji": ""
+  },
+  {
+    "slug": "online-tuition-coaching",
+    "number": 5,
+    "name": "Online Tuition / Coaching",
+    "investment": "₹0",
+    "incomePotential": "₹15K–₹1L+/mo",
+    "daysToFirstIncome": 21,
+    "sheetName": "05. Online Tuition / Coa",
+    "description": "",
+    "emoji": ""
+  },
+  {
+    "slug": "print-on-demand",
+    "number": 6,
+    "name": "Print on Demand",
+    "investment": "₹0–₹2,000",
+    "incomePotential": "₹5K–₹30K/mo",
+    "daysToFirstIncome": 25,
+    "sheetName": "06. Print on Demand",
+    "description": "",
+    "emoji": ""
+  },
+  {
+    "slug": "affiliate-marketing",
+    "number": 7,
+    "name": "Affiliate Marketing",
+    "investment": "₹0",
+    "incomePotential": "₹3K–₹50K/mo",
+    "daysToFirstIncome": 45,
+    "sheetName": "07. Affiliate Marketing",
+    "description": "",
+    "emoji": ""
+  },
+  {
+    "slug": "digital-products",
+    "number": 8,
+    "name": "Digital Products",
+    "investment": "₹0",
+    "incomePotential": "₹5K–₹70K/mo",
+    "daysToFirstIncome": 20,
+    "sheetName": "08. Digital Products",
+    "description": "",
+    "emoji": ""
+  },
+  {
+    "slug": "local-service-aggregator",
+    "number": 9,
+    "name": "Local Service Aggregator",
+    "investment": "₹2K–₹5K",
+    "incomePotential": "₹15K–₹60K/mo",
+    "daysToFirstIncome": 18,
+    "sheetName": "09. Local Service Aggreg",
+    "description": "",
+    "emoji": ""
+  },
+  {
+    "slug": "freelance-web-no-code-dev",
+    "number": 10,
+    "name": "Freelance Web / No-Code Dev",
+    "investment": "₹0–₹5,000",
+    "incomePotential": "₹25K–₹1.5L/mo",
+    "daysToFirstIncome": 32,
+    "sheetName": "10. Freelance Web / No-C",
+    "description": "",
+    "emoji": ""
+  }
+]
