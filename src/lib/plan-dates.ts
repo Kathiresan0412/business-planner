@@ -25,3 +25,9 @@ export function addDaysToDateKey(dateKey: string, days: number) {
   date.setUTCDate(date.getUTCDate() + days);
   return date.toISOString().slice(0, 10);
 }
+
+export function dateKeyDifferenceInDays(startDateKey: string, endDateKey: string) {
+  return Math.round(
+    (parseDateOnly(endDateKey).getTime() - parseDateOnly(startDateKey).getTime()) / 86400000,
+  );
+}

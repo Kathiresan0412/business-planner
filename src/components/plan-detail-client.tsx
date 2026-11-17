@@ -10,6 +10,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
 import { Progress } from "@/components/ui/progress";
+import { dateKeyDifferenceInDays } from "@/lib/plan-dates";
 
 export type PlanDetailTask = {
   id: string;
@@ -357,7 +358,7 @@ export function PlanDetailClient({
             <div className="rounded-lg bg-slate-100 p-4 dark:bg-slate-900">
               <p className="text-sm text-slate-500">Days left</p>
               <p className="mt-1 text-2xl font-bold">
-                {Math.min(90, Math.max(0, 90 - Math.floor((Date.parse(`${today}T00:00:00Z`) - Date.parse(`${startDate}T00:00:00Z`)) / 86400000)))}
+                {Math.min(90, Math.max(0, 90 - dateKeyDifferenceInDays(startDate, today)))}
               </p>
             </div>
           </div>

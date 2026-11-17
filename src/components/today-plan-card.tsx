@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 
 import { Badge } from "@/components/ui/badge";
+import { dateKeyDifferenceInDays } from "@/lib/plan-dates";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -211,10 +212,7 @@ export function TodayPlanCard({
   missedTasks,
   upcomingTasks,
 }: TodayPlanCardProps) {
-  const startsInDays = Math.max(
-    0,
-    Math.round((Date.parse(`${startDate}T00:00:00Z`) - Date.parse(`${today}T00:00:00Z`)) / 86400000),
-  );
+  const startsInDays = Math.max(0, dateKeyDifferenceInDays(today, startDate));
   const hasStarted = today >= startDate;
   const hasFinished = today > endDate;
 

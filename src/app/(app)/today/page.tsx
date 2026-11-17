@@ -7,7 +7,12 @@ import { TodayPlanCard, type TodayTask } from "@/components/today-plan-card";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { connectToDatabase } from "@/lib/db";
-import { addDaysToDateKey, dateKeyInTimezone, parseDateOnly } from "@/lib/plan-dates";
+import {
+  addDaysToDateKey,
+  dateKeyDifferenceInDays,
+  dateKeyInTimezone,
+  parseDateOnly,
+} from "@/lib/plan-dates";
 import { getCurrentUser } from "@/lib/auth";
 import BusinessTemplate from "@/models/BusinessTemplate";
 import Lead from "@/models/Lead";
@@ -86,9 +91,7 @@ async function TodayContent() {
     const planTasks = tasksByPlan.get(planId) ?? [];
     const startDate = plan.startDate.toISOString().slice(0, 10);
     const endDate = addDaysToDateKey(startDate, 89);
-    const currentDay = Math.floor(
-      (Date.parse(`${today}T00:00:00Z`) - Date.parse(`${startDate}T00:00:00Z`)) / 86400000,
-    ) + 1;
+    const currentDay = dateKeyDifferenceInDays(startDate, today) + 1;
     const todayTasks = planTasks.filter((task) => task.date === today);
     const missedTasks = planTasks.filter((task) => task.date < today && !task.done);
     const upcomingTasks = planTasks.filter((task) => task.date > today).slice(0, 3);
