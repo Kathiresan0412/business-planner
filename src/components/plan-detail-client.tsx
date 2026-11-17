@@ -10,6 +10,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
 import { Progress } from "@/components/ui/progress";
+import { formatLkr } from "@/lib/currency";
 import { dateKeyDifferenceInDays } from "@/lib/plan-dates";
 
 export type PlanDetailTask = {
@@ -352,7 +353,7 @@ export function PlanDetailClient({
             <div className="rounded-lg bg-slate-100 p-4 dark:bg-slate-900">
               <p className="text-sm text-slate-500">Income logged</p>
               <p className="mt-1 text-2xl font-bold">
-                {new Intl.NumberFormat("en-IN", { style: "currency", currency: "INR", maximumFractionDigits: 0 }).format(totalIncome)}
+                {formatLkr(totalIncome)}
               </p>
             </div>
             <div className="rounded-lg bg-slate-100 p-4 dark:bg-slate-900">

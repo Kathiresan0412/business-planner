@@ -4,6 +4,7 @@ import { Suspense } from "react";
 
 import { PlanDetailClient, type PlanDetailTask } from "@/components/plan-detail-client";
 import { connectToDatabase } from "@/lib/db";
+import { formatLkrText } from "@/lib/currency";
 import { addDaysToDateKey, dateKeyInTimezone } from "@/lib/plan-dates";
 import { getCurrentUser } from "@/lib/auth";
 import { planIdSchema } from "@/lib/validators/plans";
@@ -70,8 +71,8 @@ async function PlanDetail({ params }: RouteProps) {
     day: task.day,
     date: task.date.toISOString().slice(0, 10),
     phase: task.phase,
-    title: task.title,
-    originalTitle: templateTasksByDay.get(task.day)?.title ?? "",
+    title: formatLkrText(task.title),
+    originalTitle: formatLkrText(templateTasksByDay.get(task.day)?.title ?? ""),
     isCustom: task.isCustom,
     done: task.done,
     hoursSpent: task.hoursSpent,

@@ -19,6 +19,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
+import { formatLkr } from "@/lib/currency";
 
 type DashboardStatsData = {
   summary: {
@@ -39,13 +40,6 @@ type DashboardStatsData = {
 };
 
 const PHASE_COLORS = ["#7c3aed", "#8b5cf6", "#a78bfa", "#c4b5fd", "#6d28d9", "#5b21b6", "#4c1d95"];
-
-const formatRupees = (value: number) =>
-  new Intl.NumberFormat("en-IN", {
-    style: "currency",
-    currency: "INR",
-    maximumFractionDigits: 0,
-  }).format(value);
 
 export function DashboardStats() {
   const [selectedPlanId, setSelectedPlanId] = useState("");
@@ -91,7 +85,7 @@ export function DashboardStats() {
   async function saveWeeklyTarget() {
     const target = Number(weeklyTarget);
     if (!Number.isFinite(target) || target < 0 || target > 100_000_000) {
-      setError("Enter a weekly target between ₹0 and ₹100,000,000.");
+      setError("Enter a weekly target between LKR 0 and LKR 100,000,000.");
       return;
     }
 
@@ -139,7 +133,7 @@ export function DashboardStats() {
           { label: "Active plans", value: stats?.summary.activePlans ?? 0 },
           { label: "Tasks done this week", value: stats?.summary.tasksDoneThisWeek ?? 0 },
           { label: "Current streak", value: `${stats?.summary.streak ?? 0} days` },
-          { label: "Total income", value: formatRupees(stats?.summary.totalIncome ?? 0) },
+          { label: "Total income", value: formatLkr(stats?.summary.totalIncome ?? 0) },
           { label: "Total hours", value: `${stats?.summary.totalHours ?? 0}h` },
         ].map((stat) => (
           <Card aria-busy={loading} key={stat.label}>
@@ -168,7 +162,7 @@ export function DashboardStats() {
         </div>
         <div className="flex items-end gap-2">
           <div className="space-y-1">
-            <label className="text-sm font-medium" htmlFor="weekly-income-target">Weekly income target (₹)</label>
+            <label className="text-sm font-medium" htmlFor="weekly-income-target">Weekly income target (LKR)</label>
             <Input
               id="weekly-income-target"
               max={100_000_000}
@@ -227,8 +221,8 @@ export function DashboardStats() {
                 <LineChart data={incomeData}>
                   <CartesianGrid strokeDasharray="3 3" />
                   <XAxis dataKey="week" tickFormatter={(value: string) => value.slice(5)} />
-                  <YAxis tickFormatter={(value: number) => `₹${value}`} />
-                  <Tooltip formatter={(value) => [formatRupees(Number(value)), "Income"]} />
+                  <YAxis tickFormatter={(value: number) => `LKR ${value}`} />
+                  <Tooltip formatter={(value) => [formatLkr(Number(value)), "Income"]} />
                   <Line dataKey="amount" name="Income" stroke="#7c3aed" strokeWidth={2} type="monotone" />
                   <Line dataKey="target" name="Weekly target" stroke="#94a3b8" strokeDasharray="5 5" type="monotone" />
                 </LineChart>

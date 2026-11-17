@@ -8,6 +8,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Progress } from "@/components/ui/progress";
 import { Textarea } from "@/components/ui/textarea";
+import { formatLkr } from "@/lib/currency";
 
 type IncomeEntry = {
   id: string;
@@ -46,13 +47,6 @@ function todayInPlannerTimezone() {
   const values = Object.fromEntries(parts.map(({ type, value }) => [type, value]));
   return `${values.year}-${values.month}-${values.day}`;
 }
-
-const formatRupees = (value: number) =>
-  new Intl.NumberFormat("en-IN", {
-    style: "currency",
-    currency: "INR",
-    maximumFractionDigits: 0,
-  }).format(value);
 
 export function IncomeTracker() {
   const [data, setData] = useState<IncomeResponse | null>(null);
@@ -184,7 +178,7 @@ export function IncomeTracker() {
   async function saveMonthlyGoal() {
     const goal = Number(monthlyGoal);
     if (!Number.isFinite(goal) || goal < 0 || goal > 100_000_000) {
-      setError("Enter a monthly goal between ₹0 and ₹100,000,000.");
+      setError("Enter a monthly goal between LKR 0 and LKR 100,000,000.");
       return;
     }
 
@@ -215,7 +209,7 @@ export function IncomeTracker() {
 
   function exportCsv() {
     const rows = [
-      ["Date", "Amount (INR)", "Source", "Plan", "Note"],
+      ["Date", "Amount (LKR)", "Source", "Plan", "Note"],
       ...(data?.entries ?? []).map((entry) => [
         entry.date,
         entry.amount,
@@ -254,7 +248,7 @@ export function IncomeTracker() {
         ].map(([label, value]) => (
           <Card aria-busy={loading} key={label}>
             <CardHeader className="pb-2"><CardTitle className="text-sm font-medium text-slate-500">{label}</CardTitle></CardHeader>
-            <CardContent><p className="text-2xl font-bold">{loading ? "—" : formatRupees(Number(value))}</p></CardContent>
+            <CardContent><p className="text-2xl font-bold">{loading ? "—" : formatLkr(Number(value))}</p></CardContent>
           </Card>
         ))}
       </div>
@@ -264,7 +258,7 @@ export function IncomeTracker() {
         <CardContent className="space-y-3">
           <div className="flex flex-col gap-3 sm:flex-row sm:items-end">
             <div className="space-y-1">
-              <Label htmlFor="monthly-goal">Goal (₹)</Label>
+              <Label htmlFor="monthly-goal">Goal (LKR)</Label>
               <Input
                 id="monthly-goal"
                 max={100_000_000}
@@ -281,7 +275,7 @@ export function IncomeTracker() {
           {summary?.monthlyIncomeGoal ? (
             <div className="space-y-2">
               <div className="flex justify-between text-sm">
-                <span>{formatRupees(summary.thisMonth)} earned</span>
+                <span>{formatLkr(summary.thisMonth)} earned</span>
                 <span>{goalProgress}%</span>
               </div>
               <Progress aria-label="Monthly income goal progress" value={goalProgress} />
@@ -296,7 +290,7 @@ export function IncomeTracker() {
           <CardContent>
             <form className="space-y-4" onSubmit={submitEntry}>
               <div className="space-y-1">
-                <Label htmlFor="amount">Amount (₹)</Label>
+                <Label htmlFor="amount">Amount (LKR)</Label>
                 <Input id="amount" min={0.01} onChange={(event) => setAmount(event.target.value)} required step="0.01" type="number" value={amount} />
               </div>
               <div className="space-y-1">
@@ -363,7 +357,7 @@ export function IncomeTracker() {
                   {data?.entries.map((entry) => (
                     <tr className="border-b last:border-b-0" key={entry.id}>
                       <td className="p-2">{entry.date}</td>
-                      <td className="p-2 font-medium">{formatRupees(entry.amount)}</td>
+                      <td className="p-2 font-medium">{formatLkr(entry.amount)}</td>
                       <td className="p-2" title={entry.note}>{entry.source}</td>
                       <td className="p-2">{data.plans.find((plan) => plan.id === entry.planId)?.name ?? "—"}</td>
                       <td className="p-2">

@@ -35,7 +35,7 @@ Legend: [x] done, [ ] not done, [~] in progress.
 
 Your spreadsheet `Full_90Day_Business_Plan.xlsx` has:
 
-- **1 Master Overview sheet**: 10 businesses with Investment, Income Potential, and "Days to First ₹".
+- **1 Master Overview sheet**: 10 businesses with Investment, Income Potential, and "Days to First LKR".
 - **10 business sheets**: each one a 90-day daily plan with columns `Day, Date, Phase, Today's Exact Task, Time (hrs), Done ✓, Notes`.
 - **7 phases**: Research & Setup → Build Presence → First Samples/Launch → Active Outreach → First Customer → Iterate & Improve → Scale & Systems.
 - Some sheets have blank tasks on the last days (e.g. Day 82–90), so the app must let you add your own tasks.
@@ -134,7 +134,7 @@ STACK: Next.js (App Router, latest stable), TypeScript (strict), MongoDB Atlas w
 
 PRODUCT: Users pick one or more of 10 business ideas (Content Writing, Social Media Management, Video Editing, Reselling, Online Tuition, Print on Demand, Affiliate Marketing, Digital Products, Local Service Aggregator, Freelance Web/No-Code Dev). Each business has a 90-day daily task plan split into 7 phases. The user chooses a start date, sees today's task, marks tasks done, logs time/notes, tracks income and leads, and sees progress charts.
 
-CURRENCY: Indian Rupees (₹). Use Intl.NumberFormat("en-IN") for formatting. Dates in "DD MMM YYYY" format. Timezone Asia/Colombo.
+CURRENCY: Sri Lankan Rupees (LKR). Use Intl.NumberFormat("en-LK", { style: "currency", currency: "LKR" }) for formatting. Existing workbook amounts should keep their numeric values when shown as LKR. Dates in "DD MMM YYYY" format. Timezone Asia/Colombo.
 
 RULES:
 - Use the App Router, Server Components by default, Client Components only when needed.
@@ -180,7 +180,7 @@ Create Mongoose models in src/models/ with TypeScript types and indexes.
 1. User: name, email (unique, lowercase), passwordHash, timezone (default "Asia/Colombo"), createdAt.
 
 2. BusinessTemplate (read-only master data from my Excel):
-   slug (unique), number (1-10), name, investment (string, e.g. "₹0–₹2,000"), incomePotential (string), daysToFirstIncome (number), sheetName, description (optional), emoji (optional).
+   slug (unique), number (1-10), name, investment (string, e.g. "LKR 0–LKR 2,000"), incomePotential (string), daysToFirstIncome (number), sheetName, description (optional), emoji (optional).
 
 3. TemplateTask (the 90-day plan from my Excel):
    templateSlug, day (1-90), phase (enum of the 7 phases), title (string), defaultHours (number, optional).
@@ -194,7 +194,7 @@ Create Mongoose models in src/models/ with TypeScript types and indexes.
    planId, userId, day, date (computed from startDate + day - 1), phase, title, isCustom (boolean), done (boolean), doneAt, hoursSpent, notes.
    Compound unique index on (planId, day).
 
-6. IncomeEntry: userId, planId, amount (number in rupees), source (string), date, note.
+6. IncomeEntry: userId, planId, amount (number in LKR), source (string), date, note.
 
 7. Lead (outreach CRM): userId, planId, name, platform (instagram | linkedin | email | whatsapp | upwork | fiverr | other), contact, status (new | contacted | replied | proposal | won | lost), nextFollowUpDate, notes, valueExpected, createdAt.
 
@@ -208,7 +208,7 @@ Add timestamps to everything. Export a typed model for each and avoid model re-c
 ```
 I have an Excel file named Full_90Day_Business_Plan.xlsx with:
 
-Sheet 1 "📋 Master Overview": rows with columns # | Business Name | Investment | Income Potential | Sheet Tab | Days to First ₹ (values like "~Day 30"). The business rows are rows 3–12. Below them is a PHASE GUIDE.
+Sheet 1 "📋 Master Overview": rows with columns # | Business Name | Investment | Income Potential | Sheet Tab | Days to First LKR (values like "~Day 30"). The business rows are rows 3–12. Below them is a PHASE GUIDE.
 
 Sheets 2–11 are named "01. Content Writing & Co", "02. Social Media Managem", etc. Each has: row 1 = title, row 2 = investment/income/start date text, row 3 = headers: Day | Date | Phase | Today's Exact Task | Time (hrs) | Done ✓ | Notes. Rows 4–93 are Day 1 to Day 90.
 Some days at the end have an empty "Today's Exact Task" — keep them with title "".
@@ -246,7 +246,7 @@ Use shadcn/ui forms. Make the pages look clean and centered, mobile-friendly.
 ```
 Build the "Start a Plan" flow.
 
-1. Dashboard shows a grid of the 10 BusinessTemplate cards: emoji, name, investment, income potential, "Days to first ₹". Cards for businesses the user already started show a "Continue" button instead of "Start".
+1. Dashboard shows a grid of the 10 BusinessTemplate cards: emoji, name, investment, income potential, "Days to first LKR". Cards for businesses the user already started show a "Continue" button instead of "Start".
 2. Clicking Start opens a dialog asking for a start date (default: today; allow past or future dates).
 3. POST /api/plans: validates with Zod, creates a UserPlan, then copies all TemplateTask documents for that template into PlanTask documents for this user. Compute each task date = startDate + (day - 1). Use a MongoDB transaction or insertMany with rollback on failure. Prevent starting the same business twice while one is active.
 4. Allow multiple active plans (the user may try 2–3 businesses), but show a gentle warning after 3: "Focus beats spreading thin."
@@ -302,7 +302,7 @@ Server-render the initial data and use Client Components only for interactive pa
 Upgrade the /dashboard page.
 
 Top row of stat cards:
-- Active plans, tasks done this week, current streak, total income (₹), total hours.
+- Active plans, tasks done this week, current streak, total income (LKR), total hours.
 
 Charts (Recharts, responsive):
 1. Progress per active plan (horizontal bar, % complete).
@@ -333,9 +333,9 @@ Add a /calendar page with a monthly calendar grid (build it with date-fns, no he
 ```
 Build /income.
 
-- Form to add an income entry: amount (₹), plan (dropdown, optional), source/client name, date, note.
+- Form to add an income entry: amount (LKR), plan (dropdown, optional), source/client name, date, note.
 - Table of entries with edit and delete, sorted by newest, with filters by plan and date range.
-- Summary cards: this month, last month, all-time, best month, and "Days to first ₹" (days between plan start date and the first income entry) compared to the template's expected "Days to First ₹" from the Excel overview.
+- Summary cards: this month, last month, all-time, best month, and "Days to first LKR" (days between plan start date and the first income entry) compared to the template's expected "Days to First LKR" from the Excel overview.
 - Monthly goal setting (stored on the User) with a progress bar toward the goal.
 - Export CSV.
 
@@ -350,7 +350,7 @@ API: GET/POST /api/income, PATCH/DELETE /api/income/[id], all validated with Zod
 Many tasks in the plan are outreach tasks like "Send DMs to 10 potential clients" or "Follow up with all unanswered DMs". Build a simple CRM at /leads.
 
 - Kanban board with columns: New, Contacted, Replied, Proposal, Won, Lost. Drag and drop between columns (use @dnd-kit) and also a list view toggle for mobile.
-- Add lead dialog: name, platform, contact (handle/email/phone), plan, expected value (₹), next follow-up date, notes.
+- Add lead dialog: name, platform, contact (handle/email/phone), plan, expected value (LKR), next follow-up date, notes.
 - "Follow-ups due today" banner at the top, and the same count shown on the navbar and the Today page.
 - Stats: reply rate (replied / contacted), win rate, total pipeline value.
 - When a lead is moved to "Won", offer to create an income entry with the expected value pre-filled.
@@ -364,10 +364,10 @@ Create the API routes with Zod validation and user scoping.
 ## Prompt 12 — Daily notes and weekly review (optional)
 
 ```
-Add a weekly review feature, because the Excel has tasks like "Week 4 review: revenue = ₹? Clients = ? Lessons?".
+Add a weekly review feature, because the Excel has tasks like "Week 4 review: revenue = LKR ? Clients = ? Lessons?".
 
 - When a task title contains the word "review" (case-insensitive), show a "Start review" button on that task.
-- The review dialog has fields: revenue this week (₹), clients/customers count, what worked, what didn't, one lesson, next week's focus. Save as a Review document linked to the plan and day.
+- The review dialog has fields: revenue this week (LKR), clients/customers count, what worked, what didn't, one lesson, next week's focus. Save as a Review document linked to the plan and day.
 - /plan/[planId]/reviews lists all reviews in a timeline.
 - Auto-fill revenue from IncomeEntry totals for that week.
 - Optional: "Copy as text" button so the user can paste the review into a LinkedIn or Instagram "progress update" post.

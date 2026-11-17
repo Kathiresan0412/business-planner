@@ -41,6 +41,8 @@ const slugify = (value: string) =>
     .replace(/^-+|-+$/g, "")
     .replace(/-+/g, "-");
 
+const normalizeCurrencyLabel = (value: string) => value.replace(/₹\s*/g, "LKR ");
+
 const toNumber = (value: unknown) => {
   if (typeof value === "number" && Number.isFinite(value)) {
     return value;
@@ -189,8 +191,8 @@ async function main() {
       slug,
       number,
       name: entry.name,
-      investment: entry.investment,
-      incomePotential: entry.incomePotential,
+      investment: normalizeCurrencyLabel(entry.investment),
+      incomePotential: normalizeCurrencyLabel(entry.incomePotential),
       daysToFirstIncome: parseDaysToFirstIncome(entry.daysToFirstIncome),
       sheetName,
       description: "",
@@ -229,7 +231,7 @@ async function main() {
       }
 
       foundDays += 1;
-      const title = String(row.title ?? "").trim();
+      const title = normalizeCurrencyLabel(String(row.title ?? "").trim());
       if (!title) {
         emptyTitleDays += 1;
       }

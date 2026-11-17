@@ -16,6 +16,7 @@ import {
   DialogTitle,
 } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
+import { formatLkr } from "@/lib/currency";
 import { leadPlatforms, leadStatuses } from "@/lib/lead-options";
 
 type LeadStatus = (typeof leadStatuses)[number];
@@ -56,12 +57,6 @@ const PLATFORM_LABELS: Record<LeadPlatform, string> = {
   fiverr: "Fiverr",
   other: "Other",
 };
-
-const CURRENCY = new Intl.NumberFormat("en-IN", {
-  style: "currency",
-  currency: "INR",
-  maximumFractionDigits: 0,
-});
 
 const EMPTY_FORM: LeadForm = {
   planId: "",
@@ -122,7 +117,7 @@ function LeadCard({
       {lead.contact ? <p className="mt-1 truncate text-xs text-slate-500">{lead.contact}</p> : null}
       {lead.valueExpected > 0 ? (
         <p className="mt-2 text-sm font-semibold text-emerald-700 dark:text-emerald-400">
-          {CURRENCY.format(lead.valueExpected)}
+          {formatLkr(lead.valueExpected)}
         </p>
       ) : null}
       {lead.nextFollowUpDate ? (
@@ -366,7 +361,7 @@ export function LeadsCrm() {
           ["Contacted", String(summary.contacted)],
           ["Reply rate", `${summary.replyRate}%`],
           ["Win rate", `${summary.winRate}%`],
-          ["Pipeline value", CURRENCY.format(summary.pipelineValue)],
+          ["Pipeline value", formatLkr(summary.pipelineValue)],
         ].map(([label, value]) => (
           <Card key={label}>
             <CardHeader className="pb-2"><CardTitle className="text-sm font-medium text-slate-500">{label}</CardTitle></CardHeader>
@@ -456,7 +451,7 @@ export function LeadsCrm() {
                 <span className="font-medium">{lead.name}<span className="ml-2 text-xs font-normal text-slate-500">{lead.contact}</span></span>
                 <span className="text-sm text-slate-600">{PLATFORM_LABELS[lead.platform]}</span>
                 <span className="text-sm text-slate-600">{STATUS_LABELS[lead.status]}</span>
-                <span className="text-sm font-medium">{lead.valueExpected ? CURRENCY.format(lead.valueExpected) : "—"}</span>
+                <span className="text-sm font-medium">{lead.valueExpected ? formatLkr(lead.valueExpected) : "—"}</span>
               </button>
             ))}
           </div>
@@ -518,7 +513,7 @@ export function LeadsCrm() {
                 <Input onChange={(event) => setForm({ ...form, nextFollowUpDate: event.target.value })} type="date" value={form.nextFollowUpDate} />
               </label>
               <label className="block space-y-1 text-sm">
-                <span>Expected value (INR)</span>
+                <span>Expected value (LKR)</span>
                 <Input min={0} onChange={(event) => setForm({ ...form, valueExpected: Number(event.target.value) })} type="number" value={form.valueExpected} />
               </label>
             </div>
@@ -550,7 +545,7 @@ export function LeadsCrm() {
             <DialogTitle>Lead won!</DialogTitle>
             <DialogDescription>
               {incomePrompt?.valueExpected
-                ? `Record ${CURRENCY.format(incomePrompt.valueExpected)} from ${incomePrompt.name} as income?`
+                ? `Record ${formatLkr(incomePrompt.valueExpected)} from ${incomePrompt.name} as income?`
                 : `Would you like to add income from ${incomePrompt?.name} now?`}
             </DialogDescription>
           </DialogHeader>

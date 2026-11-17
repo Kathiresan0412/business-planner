@@ -6,6 +6,7 @@ import { Suspense } from "react";
 import { TodayPlanCard, type TodayTask } from "@/components/today-plan-card";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { formatLkrText } from "@/lib/currency";
 import { connectToDatabase } from "@/lib/db";
 import {
   addDaysToDateKey,
@@ -77,7 +78,7 @@ async function TodayContent() {
       day: task.day,
       date: task.date.toISOString().slice(0, 10),
       phase: task.phase,
-      title: task.title,
+      title: formatLkrText(task.title),
       done: task.done,
       hoursSpent: task.hoursSpent,
       notes: task.notes,

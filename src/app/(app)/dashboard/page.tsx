@@ -7,6 +7,7 @@ import { StartPlanDialog } from "@/components/start-plan-dialog";
 import { DashboardStats } from "@/components/dashboard-stats";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { formatLkrText } from "@/lib/currency";
 import { connectToDatabase } from "@/lib/db";
 import { getCurrentUser } from "@/lib/auth";
 import BusinessTemplate from "@/models/BusinessTemplate";
@@ -101,13 +102,13 @@ async function DashboardContent() {
                     <span aria-hidden="true" className="text-3xl">{template.emoji || "💼"}</span>
                     <div className="space-y-1">
                       <CardTitle>{template.name}</CardTitle>
-                      <p className="text-sm text-slate-500">{template.investment}</p>
+                      <p className="text-sm text-slate-500">{formatLkrText(template.investment)}</p>
                     </div>
                   </div>
                 </CardHeader>
                 <CardContent className="flex h-full flex-col gap-4">
                   <div className="space-y-2 text-sm">
-                    <p><span className="font-medium">Income potential:</span> {template.incomePotential}</p>
+                    <p><span className="font-medium">Income potential:</span> {formatLkrText(template.incomePotential)}</p>
                     <p><span className="font-medium">First income:</span> around day {template.daysToFirstIncome}</p>
                   </div>
                   <div className="mt-auto">

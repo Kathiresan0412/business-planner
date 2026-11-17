@@ -13,6 +13,8 @@ npm run seed
 
 The app includes email/password authentication, 90-day business plans and tasks, dashboard progress, income tracking, and a lead pipeline with follow-up reminders. Settings include profile preferences, password changes, JSON export, and account deletion. Data operations are scoped to the signed-in user.
 
+All monetary amounts are displayed in Sri Lankan rupees (LKR). Amounts from the original workbook retain their numeric values; no currency conversion is applied.
+
 ## Getting Started
 
 First, run the development server:

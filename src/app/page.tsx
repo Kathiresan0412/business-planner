@@ -36,7 +36,7 @@ export default function Home() {
                 </div>
                 <div className="rounded-xl bg-slate-800 p-4">
                   <p className="text-xs uppercase tracking-[0.2em] text-slate-400">Income</p>
-                  <p className="mt-2 text-2xl font-bold">₹24k</p>
+                  <p className="mt-2 text-2xl font-bold">LKR 24k</p>
                 </div>
               </div>
             </div>

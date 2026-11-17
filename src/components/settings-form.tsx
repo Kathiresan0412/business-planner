@@ -151,7 +151,7 @@ export function SettingsForm() {
               />
             </div>
             <div className="space-y-2">
-              <Label htmlFor="settings-goal">Monthly income goal (INR)</Label>
+              <Label htmlFor="settings-goal">Monthly income goal (LKR)</Label>
               <Input
                 id="settings-goal"
                 min={0}
