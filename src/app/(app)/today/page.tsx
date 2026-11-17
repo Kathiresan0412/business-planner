@@ -7,9 +7,10 @@ import { TodayPlanCard, type TodayTask } from "@/components/today-plan-card";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { connectToDatabase } from "@/lib/db";
-import { addDaysToDateKey, dateKeyInTimezone } from "@/lib/plan-dates";
+import { addDaysToDateKey, dateKeyInTimezone, parseDateOnly } from "@/lib/plan-dates";
 import { getCurrentUser } from "@/lib/auth";
 import BusinessTemplate from "@/models/BusinessTemplate";
+import Lead from "@/models/Lead";
 import PlanTask from "@/models/PlanTask";
 import User from "@/models/User";
 import UserPlan from "@/models/UserPlan";
@@ -46,6 +47,14 @@ async function TodayContent() {
   ]);
   const timeZone = user?.timezone || "Asia/Colombo";
   const today = dateKeyInTimezone(new Date(), timeZone);
+  const followUps = await Lead.find({
+    userId,
+    status: { $nin: ["won", "lost"] },
+    nextFollowUpDate: {
+      $gte: parseDateOnly(today),
+      $lt: parseDateOnly(addDaysToDateKey(today, 1)),
+    },
+  }).select("name").lean().exec();
   const planIds = plans.map((plan) => plan._id);
   const templateSlugs = [...new Set(plans.map((plan) => plan.templateSlug))];
   const [templates, tasks] = await Promise.all([
@@ -127,6 +136,23 @@ async function TodayContent() {
         <p className="text-sm font-medium uppercase tracking-[0.2em] text-violet-600">Today</p>
         <h1 className="mt-2 text-3xl font-bold tracking-tight">Your daily plan</h1>
       </div>
+
+      {followUps.length > 0 ? (
+        <Card className="border-amber-300 bg-amber-50/70 dark:bg-amber-950/20">
+          <CardHeader>
+            <CardTitle className="text-base">
+              {followUps.length} lead follow-up{followUps.length === 1 ? "" : "s"} due today
+            </CardTitle>
+          </CardHeader>
+          <CardContent className="flex flex-wrap items-center justify-between gap-3">
+            <p className="text-sm text-slate-600 dark:text-slate-300">
+              {followUps.slice(0, 3).map((lead) => lead.name).join(", ")}
+              {followUps.length > 3 ? ` and ${followUps.length - 3} more` : ""}
+            </p>
+            <Link href="/leads"><Button variant="outline">Review leads</Button></Link>
+          </CardContent>
+        </Card>
+      ) : null}
 
       {planCards.length ? (
         <div className="space-y-6">

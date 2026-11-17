@@ -1,32 +1,15 @@
 import mongoose, { Schema, type InferSchemaType } from "mongoose";
 
-const LeadPlatform = [
-  "instagram",
-  "linkedin",
-  "email",
-  "whatsapp",
-  "upwork",
-  "fiverr",
-  "other",
-] as const;
-
-const LeadStatus = [
-  "new",
-  "contacted",
-  "replied",
-  "proposal",
-  "won",
-  "lost",
-] as const;
+import { leadPlatforms, leadStatuses } from "@/lib/lead-options";
 
 const LeadSchema = new Schema(
   {
     userId: { type: Schema.Types.ObjectId, ref: "User", required: true, index: true },
     planId: { type: Schema.Types.ObjectId, ref: "UserPlan", required: true, index: true },
     name: { type: String, required: true, trim: true },
-    platform: { type: String, enum: LeadPlatform, required: true },
+    platform: { type: String, enum: leadPlatforms, required: true },
     contact: { type: String, default: "" },
-    status: { type: String, enum: LeadStatus, default: "new" },
+    status: { type: String, enum: leadStatuses, default: "new" },
     nextFollowUpDate: { type: Date, default: null },
     notes: { type: String, default: "" },
     valueExpected: { type: Number, default: 0 },

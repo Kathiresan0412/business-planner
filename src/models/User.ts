@@ -8,6 +8,7 @@ const UserSchema = new Schema(
     timezone: { type: String, default: "Asia/Colombo" },
     weeklyIncomeTarget: { type: Number, min: 0, default: 0 },
     monthlyIncomeGoal: { type: Number, min: 0, default: 0 },
+    dailyReminderTime: { type: String, default: "" },
   },
   { timestamps: true },
 );

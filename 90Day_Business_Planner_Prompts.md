@@ -10,7 +10,7 @@ Legend: [x] done, [ ] not done, [~] in progress.
 - [x] Prompt 0 — Master context
 - [x] Prompt 1 — Project setup
 - [x] Prompt 2 — Database models
-- [~] Prompt 3 — Import the Excel data (scripts are ready; waiting for the workbook)
+- [x] Prompt 3 — Import the Excel data
 - [x] Prompt 4 — Authentication
 - [~] Prompt 5 — Start a plan (implementation is ready; requires seeded MongoDB data to exercise)
 - [~] Prompt 6 — Today page (implementation is ready; requires active plans to exercise)
@@ -18,16 +18,16 @@ Legend: [x] done, [ ] not done, [~] in progress.
 - [~] Prompt 8 — Dashboard with progress charts (implementation is ready; requires user data to exercise)
 - [ ] Prompt 9 — Calendar view (optional)
 - [~] Prompt 10 — Income tracker (implementation is ready; requires MongoDB to exercise)
-- [ ] Prompt 11 — Leads / outreach CRM
+- [~] Prompt 11 — Leads / outreach CRM (implemented; needs MongoDB-backed exercise)
 - [ ] Prompt 12 — Daily notes and weekly review (optional)
-- [ ] Prompt 13 — Settings and data export
+- [~] Prompt 13 — Settings and data export (implemented; needs MongoDB-backed exercise)
 - [ ] Prompt 14 — PWA and reminders (optional)
 - [ ] Prompt 15 — Security hardening
 - [ ] Prompt 16 — Testing
 - [ ] Prompt 17 — Deploy
 - [ ] Prompt 18 — Final polish
 
-> Current implementation: the project scaffold, database models, Excel export/seed scripts, authentication, and start-plan flow are in place. The Excel import and database-backed flows still need the workbook and a configured MongoDB connection for end-to-end testing.
+> Current implementation: the project scaffold, database models, Excel export/seed scripts, authentication, start-plan, Today, plan detail, dashboard, income, leads CRM, and settings flows are in place. The workbook exported 10 templates and 900 tasks; the seed and database-backed flows still need a configured MongoDB connection for end-to-end testing.
 
 ---
 

@@ -1,1 +1,6302 @@
-[]
+[
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Choose affiliate niche: tech, finance, skincare, courses, software",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Research top affiliate programs in your niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "Sign up for Amazon Associates",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Sign up for EarnKaro or INRDeals",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Sign up for 1 software affiliate (Hostinger, Canva, etc.)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Choose content platform: Instagram, Telegram, or YouTube",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Create your content platform account + complete bio",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Post #1: 'Why I'm starting [niche] content in 2026'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Research top 5 products in your niche to review",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "Write honest review of Product #1",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Post review with affiliate link (disclose it!)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Create a Linktree or Bento page with all affiliate links",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "Post #2: 'Top 3 [niche] products under ₹1,000'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Week 2 review: clicks, conversions, which post worked?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Post #3: Comparison – Product A vs Product B",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Create a niche Telegram channel if not done",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Add first 50 members to Telegram (friends + invite)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Post daily deal/recommendation in Telegram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Post #4: 'My setup/tools for [niche]' with affiliate links",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "Post #5: Unboxing or demo video of a product",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Join 3 niche Facebook groups, participate actively",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Week 3 review: affiliate income so far?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Post #6: 'Best [niche] deals this week'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Invite 20 more people to Telegram channel",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Engage with all comments on your posts",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "Write SEO blog post on Medium about niche product",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Share Medium post on all platforms",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Post #7: 'Honest cons of [popular product]' (builds trust)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: which platform drives most clicks?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Post #8: 'Best affiliate deals of the month'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Double down on best-performing platform",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "Create a YouTube short (60 sec) product review",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Post YouTube Short with affiliate link in description",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Post #9: 'Top 5 [niche] tools I use daily'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Research seasonal sale events (Amazon Prime, Flipkart sale)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "Plan sale event content in advance",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Post #10: Sale announcement with curated product list",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Post #11: Countdown to sale – 'Top picks'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Post during sale – daily deals updates",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Week 6 review: income during sale event?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Post #12: 'Post-sale review – what sold out fastest?'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Build email list: create free lead magnet (PDF guide)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Post: 'Free guide – [niche topic], DM me'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Collect 20+ emails from DM requests",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Send first email newsletter with affiliate recommendations",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Post #13: 'Month 2 update – affiliate income revealed'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "Week 7 review: email list size, newsletter clicks",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Sign up for 1 more high-commission affiliate (course/software)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Post #14: Review of new high-commission product",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Create a 'best tools' page on Linktree with curated links",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Post #15: 'My recommended [niche] starter kit'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Send email #2: 'This week's top deals'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Post #16: 'Worst [niche] products I regret buying' (honest content)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Week 8 review: total commissions? Target ₹5,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Post #17: 'How to choose the best [niche product]' guide",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Grow Telegram to 200+ subscribers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "Post #18: 'Hidden gems in [niche] under ₹500'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Optimize top-performing posts with better CTAs",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Post #19: 'My full [niche] setup tour'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "Send email #3 to growing list",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Post #20: 'Ultimate beginner guide to [niche]'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Week 9 review: list, Telegram, income progress",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Research Pinterest as traffic source for affiliate links",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Create 5 Pinterest pins for top content",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Post #21: '[Month] top picks in [niche]'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Study top creators in your niche – what converts?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "Improve weakest-performing affiliate product page",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Post #22: 'I tried [product] for 30 days – here's the truth'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "Send email #4: 'Exclusive deals for subscribers only'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Week 10 review: income target ₹15,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Post #23: 'Affiliate marketing – how I earn without selling'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Reach 300+ Telegram subscribers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Research and join 1 high-ticket affiliate (₹10,000+ products)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Create detailed review of high-ticket product",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Post #24: High-ticket product review with strong CTA",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Week 11 review: high-ticket conversions?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Post #25: 'Top 5 deals this weekend'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Send email #5 to list: 'My top recommended products'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "Analyze: which affiliate program earned most?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "Double down on top-earning program",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Post #26: 'Month 3 income reveal – affiliate marketing'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "Create a YouTube video: 'Top 5 [niche] products 2026'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "Post #27: 'How I pick which products to recommend'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "Week 12 review: all platform growth, income",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "Plan Month 4: target ₹25,000/month",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "Review Day 90: total commission, best platform, next 90 plan",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "affiliate-marketing",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Choose your niche (e.g. tech blogs, food, finance)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Read 5 top articles in your niche to understand style",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "Write Sample Article #1 (500 words) in your niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Edit & polish Sample Article #1, save as PDF",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Write Sample Article #2 (different format: listicle)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Write Sample Article #3 (how-to guide format)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Update LinkedIn bio + post 1 educational tip",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Create Instagram writing page, write bio",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Post Day 1 content: '3 mistakes brands make in writing'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "List 50 potential clients (small brands, startups, coaches)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Research each client: what content do they need?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Write outreach DM template (personalized, value-first)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "Send DMs to 10 potential clients from your list",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Send DMs to 10 more clients, follow up Day 6 sends",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Create Fiverr profile + 1 writing gig",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Create Upwork profile + write proposal template",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Post Instagram: 'How I write a blog post in 2 hours'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Send 10 more DMs, follow up with Week 2 contacts",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Write 1 free sample for most interested prospect",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "Post LinkedIn article (500 words, your niche topic)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Review week: count replies, refine DM template",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Send proposals to 5 Upwork jobs",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Post: 'What is copywriting vs content writing?' (Insta)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Follow up with ALL unanswered DMs from past 2 weeks",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Send cold emails to 10 brands (email found on website)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "Send 5 more Upwork proposals, adjust based on feedback",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Post testimonial/progress update on LinkedIn",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: revenue = ₹? Clients = ? Lessons?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Deliver work for any client won; ask for feedback",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Write 2 more portfolio samples in different niches",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Pitch a retainer package to your best client",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "Post: 'Day 30 update – what I learned as a new writer'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Research 20 more niche-specific potential clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Send 15 new outreach DMs with refined template",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Follow up on all pending proposals/DMs",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "Apply to 5 content writing job boards (Internshala etc.)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Create a simple portfolio page (Canva or Google Sites)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Increase rates by 10% for new clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Post: 'How brands can double engagement with better copy'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Deliver any pending work; collect written testimonials",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Add testimonials to portfolio + Fiverr/Upwork profile",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Reach out to 3 digital marketing agencies for sub-work",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Post: 'My writing process from brief to final draft'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Send 20 DMs in a new sub-niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Pitch 2nd retainer client",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Create a 'Writing Packages' image for Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "Review month 2: income progress, top client source",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Send invoice to all clients, track payment",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Write email newsletter signup landing page copy",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Upsell existing clients: add social captions to package",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Top 5 tools I use as a content writer'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Apply to 3 content writing remote jobs",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Network: comment on 20 LinkedIn posts in your niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Review rates: raise by 20% for new inquiries",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Start writing a niche blog on Medium or Substack",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Publish first blog post (800 words)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "DM 15 new prospects, share Medium article",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Follow up with all past clients for repeat work",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Create a Google Drive portfolio folder, share with leads",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Client case study – how I helped [niche] brand'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Join 2 content writing Facebook groups, introduce yourself",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Submit 3 guest post pitches to popular niche blogs",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Deliver all pending work with 1 day early deadline",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Ask 3 satisfied clients for referrals",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Publish 2nd Medium/Substack blog post",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Review income: target ₹15,000 by Day 70",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "Systemize: create writing checklist template",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Build a 'content ideas bank' spreadsheet",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "Pitch 3rd retainer client (monthly package)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Why retainer clients > one-time projects'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Create 3 writing package tiers with pricing",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Send package PDF to 10 warm prospects",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Follow up on all pending retainer proposals",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Deliver Month 3 content for retainer clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Ask retainer clients for case study testimonials",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Post: 'Month 3 content writing journey update'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Raise Fiverr/Upwork rates by 30%",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Onboard any new client with a proper brief form",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "Plan content calendar for all retainer clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "Research hiring 1 junior writer for overflow work",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Review Day 90: income, clients, lessons, next 90-day goal",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "content-writing",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Brainstorm: what problems can you solve with a digital file?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Choose product type: Notion template, Canva pack, eBook, tracker",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "Research existing similar products on Gumroad",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Study top-selling products: pricing, design, description",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Sketch/outline your V1 product structure",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Build V1 of your product (don't over-perfect)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Review V1: is it actually useful to your target buyer?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Improve V1 based on self-review",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Create product thumbnail/cover image in Canva",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "Write product description (benefits, not features)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Set up Gumroad free account",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Upload product + set price (₹499–999 for V1)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "Create simple landing page on Gumroad",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Set up Razorpay payment link as backup",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Post teaser: 'I'm building something – stay tuned' (3 posts)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Post launch announcement on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Share with 50 WhatsApp contacts",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Post on LinkedIn: 'I just launched my first digital product'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Target: 5 sales in first 3 days",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "DM 20 people personally who might benefit",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Collect buyer feedback via Google Form",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Week 3 review: sales, feedback, what to improve",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Improve product based on feedback (V1.1)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Post: 'Update – I improved the product based on feedback'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Ask buyers for testimonials",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "Post testimonial on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Create 2nd product that complements the first",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Post: 'Product #2 launching this week'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: total revenue from both products",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Launch Product #2 with announcement post",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Share both products as a 'bundle deal'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "Post: 'Bundle deal – both products for ₹799'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Post: 'How I created a digital product in 7 days'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Study what other creators in your niche are selling",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Brainstorm Product #3 idea",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "Post: 'What digital product would you pay for? Vote below'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Analyze poll: what does audience want most?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Build Product #3 based on poll feedback",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Post launch countdown for Product #3",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Launch Product #3",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Week 6 review: revenue from 3 products, top seller?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Create a 'product suite' bundle (all 3 products)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Price bundle at 30% discount from individual",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Post bundle announcement",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Collect 5+ reviews, post them",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Post: 'Month 2 update – digital products income reveal'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "Pitch your products to 3 relevant newsletters",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Ask 2 creators to share/recommend your product",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Run a limited-time 'flash sale' (24 hours only)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Week 7 review: flash sale ROI",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Behind the scenes – building digital products'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Create a free lead magnet (mini version of a product)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Free [mini product] – DM me to get it'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Collect emails from lead magnet requestors",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Send email: 'Here's your free resource + paid upgrade'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Grow email list to 100+ subscribers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Top 5 tools I used to create this product'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Week 8 review: email list, revenue, best product",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Study Notion marketplace or Etsy for new market",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "List products on Etsy digital downloads",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Optimize Etsy listings with keywords",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'My products are now on Etsy!'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Create Product #4 based on seasonal demand",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Launch Product #4 to email list first",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Post Product #4 launch to Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Week 9 review: Etsy sales? India sales?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "Create a YouTube video: 'How I make passive income with digital products'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Post video + add product links in description",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "Send email #2: 'New product + update for subscribers'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Month 3 – digital product income breakdown'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Study top Gumroad creators: what's their strategy?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Plan a 'cohort' or 'community' upsell from products",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Post: 'I'm launching a community for [niche] – interested?'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Collect interest via DM/Google Form",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Build community concept if 20+ interested",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Week 10 review: income target ₹30,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Raise prices on best-selling product by 20%",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Post: 'Price increase coming – grab it now'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "Urgency campaign: 72-hour sale before price rise",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "After price rise: share 'new price, better product' post",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Send email #3 about new pricing and value",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "Post: '3 lessons from 3 months of digital product sales'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "Week 12 review: product portfolio, email list, revenue",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "Plan Month 4: target ₹50,000/month passive",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "Review Day 90: total revenue, best product, email list size",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "digital-products",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Watch Framer tutorial: 'Build a website in 1 hour' (YouTube)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Complete Framer basics: pages, sections, fonts",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "Build Section 1 of sample website (hero section)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Build Section 2: services/about section",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Complete full sample site: fictional restaurant",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Get feedback from 1 friend on sample site design",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Improve design based on feedback",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Build Sample Website #2: fictional coaching/service business",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Create a portfolio page listing both sample sites",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "Set up LinkedIn with 'Freelance Web Developer – No Code' bio",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Set up Instagram page: share website screenshots",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Create 3-tier pricing menu: Basic, Standard, Premium",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "List 20 local businesses with outdated/no websites",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Send DMs to 10 local businesses on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Post on LinkedIn: 'I build websites without coding – DM me'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Send DMs to 10 more local businesses",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Post: 'Before vs After – website redesign concept' on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Apply to 3 freelance jobs on Upwork",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Apply to 3 freelance jobs on Fiverr",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "Week 3 review: responses, leads, portfolio feedback",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Build Sample Website #3: fashion/retail niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Send cold emails to 5 local businesses (email from website)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Follow up on all pending DM outreach",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Post: 'How long does it take to build a website?'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Offer 1 free website redesign concept (no-commitment mock-up)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "Present mock-up to most interested prospect",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Convert mock-up to paid project (min ₹5,000)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: first project won? Income?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Deliver first client website",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Ask for feedback + testimonial after delivery",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Add first project to portfolio",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "Post: 'Client project delivered – here's what I built'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Upsell client: offer ₹2,000/month maintenance retainer",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Apply to 5 more Upwork/Fiverr jobs",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Study Webflow basics (alternative tool for more complex sites)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "Post: 'Month 1 – freelance web dev without coding'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Approach 10 more local businesses via DM",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Study SEO basics: how to make websites rank on Google",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Offer 'SEO-ready website' as upgrade in your packages",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Post: 'What is an SEO-ready website?' (educational)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Week 6 review: income target ₹10,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Build portfolio website for yourself (showcase work)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Share portfolio site on LinkedIn and Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Send cold emails to 10 coaching businesses",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Post: 'I redesigned [type of business] website – here's how'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Approach 5 restaurants with no/poor website",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "Study Shopify basics for e-commerce clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Build Shopify demo store (small fashion brand)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Post: 'E-commerce websites now in my service range'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Week 7 review: e-commerce leads?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Win 2nd client project this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Deliver 2nd project ahead of deadline",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Post 2nd client testimonial on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Create a 'Website ROI calculator' graphic for posts",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'How a good website adds ₹X revenue per month'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Week 8 review: income ₹20,000? 2 clients?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "Study Google Analytics setup for client websites",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Offer analytics setup as add-on service",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Why your website needs analytics'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "Approach 5 doctors/clinics for website",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Approach 3 lawyers for website",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Build sample site for a doctor (demo)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Doctor website demo – built in 3 hours'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Week 9 review: professional niche traction?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Win project from doctor/professional niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Deliver project + collect testimonial",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "Create 'Website Checklist' PDF: 10 must-haves",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Free website checklist – DM me'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "DM all requestors with checklist + service offer",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Month 2 – freelance web dev income update'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Apply to 5 web dev agencies for white-label work",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Week 10 review: agency leads? Revenue?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Win white-label project from agency",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Deliver agency project (standard quality)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Study WordPress vs Framer – which for which client?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Add WordPress to your service offering",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Post: 'Now offering WordPress websites too'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Week 11 review: income target ₹50,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "Win 3rd client project this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "Target: 3 active clients + 1 agency partner",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Post: 'Running 3 web projects simultaneously – here's my workflow'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "Create project brief template (for client onboarding)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "Create invoice template (Google Docs or Wave)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "Study hiring a junior designer for overflow",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "Post: 'Freelance web dev – Day 80 update'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "Send all invoices, track all payments",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "Follow up on all warm leads from past weeks",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "Apply to 3 more premium Upwork jobs (raise rates)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "Week 12 review: 3 clients, income, growth",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "freelance-web-dev",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "Plan Month 4: target ₹1L/month with 3–4 clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Choose 1 service: deep cleaning, AC service, pest control, or plumbing",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Research local competitor pricing (JustDial, UrbanCompany)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "Identify 5 skilled local workers for your chosen service",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Meet Worker #1: verify skills, negotiate commission (15–25%)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Meet Worker #2 and #3: same verification process",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Finalize 3 workers, get their contact info and photos",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Set your service pricing (same or 10% better than competitors)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Set up Google My Business listing",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Set up WhatsApp Business: catalog, business hours, auto-reply",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "Design simple logo in Canva",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Print 200 pamphlets (₹500–800 from local printer)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Distribute pamphlets in 5 nearby apartment buildings",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "Post on 3 local Facebook groups: 'Affordable [service] in [area]'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Register on JustDial (free listing)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Register on Sulekha (free listing)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Week 2 review: any inquiries from pamphlets or online?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Respond to all inquiries within 30 minutes",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Book first job – offer at 50% discount for a review",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Coordinate with Worker #1 to execute first job",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "After job: ask customer for Google review + WhatsApp photo",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Post job completion photo on WhatsApp Status",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Post job completion photo on Facebook groups",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Approach 5 apartment societies for bulk service agreement",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Week 3 review: first bookings, income, worker quality",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Book 2nd and 3rd jobs this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "After each job: photo + review collection",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Post: 'Before & After [service] photos' on Facebook",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Update Google My Business with first reviews",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Distribute pamphlets in 5 more apartment buildings",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Create a 'refer and earn' offer for customers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: total revenue, worker reliability",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "Post on local Facebook groups: 'Happy customer review'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Approach 3 housing societies for monthly AMC (Annual Maintenance Contract)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Create AMC package pricing document",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Present AMC package to society management",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "Send WhatsApp broadcast to past customers: 'Book your next service'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Distribute pamphlets in commercial area (offices)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Week 5 review: AMC interest? Revenue target ₹10,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Book 5+ jobs this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Create a simple tracking sheet: job date, customer, payment, worker",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Collect all pending payments via UPI",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Post: 'Week 5 – X jobs completed, 100% customer satisfaction'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Approach 2 more workers as backup for busy periods",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Create worker quality checklist (what to check after each job)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Week 6 review: income ₹15,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Expand to 1 adjacent service (e.g. add sofa cleaning to home cleaning)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "Find worker for new service type",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Post: 'We now offer [new service] too!'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Distribute pamphlets for new service",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Update JustDial and Sulekha with new service",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Book 2 jobs for new service this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Week 7 review: dual-service performance",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Create simple service agreement for customers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Implement 'happy hours' pricing (weekday discount)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Weekday special: 15% off [service]'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Target apartment secretary/RWA for tie-up",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "Sign tie-up with 1 apartment complex (guaranteed monthly work)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Week 8 review: income target ₹25,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Hire 1 part-time coordinator for calls/bookings",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "Create standard script for booking calls",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Post: '2 months – X jobs, X happy customers'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Approach 3 offices for corporate service tie-up",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Offer first corporate job at cost price for a review",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Complete corporate job, get written testimonial",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Week 9 review: corporate + residential income split",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Add 3rd service (e.g. pest control after cleaning)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "Post: '3 services now available – all in one call'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Update all listings with 3-service offerings",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "Target: 15+ jobs this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Send invoice to all clients, follow up on payments",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Post: 'Customer highlight – [before/after story]'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Week 10 review: income ₹35,000? Workers? Quality?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Reward best-performing worker: bonus or extra work",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Build WhatsApp group for all workers: updates, schedules",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Create monthly worker payment sheet",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Post: 'We're expanding – hiring more service professionals'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Interview 2 new workers for 3rd service",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Run first Google Ads campaign (₹500 budget, 5 days)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "Track Google Ads leads, cost per booking",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "Analyze ads ROI – scale if positive",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Week 12 review: all channels, revenue, workers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "Plan service expansion to 2nd local area",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "Scout workers in 2nd area",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "Post: 'Now serving [Area 2] too!'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "Week 13 review: multi-area progress",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "Review Day 90: total revenue, jobs, workers, retention rate",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "local-service-aggregator",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Fix subject + audience: e.g. 'CBSE Class 10 Maths'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Research what students struggle with most (Google, Quora)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "Create a 30-min free demo class structure/outline",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Practice delivering the demo class (record yourself)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Watch the recording, identify 3 things to improve",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Re-record improved version of demo class",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Join 5 relevant WhatsApp parent/student groups",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Post demo class offer in 3 WhatsApp groups",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Post: 'Free demo class for [subject]' on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "DM 10 parents/students personally with demo offer",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Conduct first demo class (even 2–3 students is great)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Collect feedback form from demo attendees",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "Refine class based on feedback",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Offer discounted first month to demo attendees",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Convert at least 2 demo students to paid",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Set up Zoom free account + test audio/video",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Create a simple class schedule (Google Calendar)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Design class notes template in Google Docs",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Conduct first official paid class",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "Share class recording + notes with students",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Post in 5 more local WhatsApp groups",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Ask first students for feedback after Week 3",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Post: 'Why students fail [subject] and how to fix it'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Offer referral discount: 'Refer a friend, get ₹200 off'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Target: 5 paid students by Day 25",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "Create a doubt-clearing session (30 min weekly)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Post: 'Free doubt clearing session every Sunday'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: students, income, retention",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Create a Month 1 study plan for all students",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Record 1 short teaching clip for Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Post teaching clip: '2-minute trick for [topic]'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "DM 20 more parents/students",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Join 5 more local parent groups on Facebook",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Post teaching clip in Facebook groups",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Target: 8–10 paid students",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "Start a free Telegram group for your students",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Post daily study tips in Telegram group",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Create a 'Topic Roadmap' visual for your subject",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Post roadmap: 'How I teach [subject] in 90 days'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Reach out to 1 school teacher for student referrals",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Week 6 review: income target ₹10,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Create study materials: PDF notes for Chapter 1",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Share notes with students (adds value)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Post: 'Free Chapter 1 notes – DM me'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Run a mini quiz in your Telegram group",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Announce next month's batch with early bird price",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "DM 30 potential students for Month 2 batch",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Post: 'Batch 2 opening – limited seats'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Collect Month 1 testimonials from students",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Post testimonials on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Week 8 review: batch 2 sign-ups, income",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Start Batch 2 class schedule",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Record a full topic explanation (10-15 min) for YouTube",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Upload video to YouTube with SEO title",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Post: '1 month update – online tuition journey'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Create a monthly test/mock paper for students",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "Evaluate test papers, give individual feedback",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'How my students improved in 30 days'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Approach 2 coaching centers for referral partnership",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "Create 'Group Batch' offering (15–20 students, lower price)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Post group batch announcement",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Week 10 review: 2 batches, income target ₹25,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Upload 2nd YouTube video on a popular exam topic",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Share YouTube video in all groups",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Create a revision worksheet PDF",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Share worksheet: 'Free revision sheet – DM me'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "DM all worksheet requestors to join batch",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Conduct first group batch class (15+ students)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "Week 11 review: group batch experience",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Create Month 3 study plan for all batches",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Post: '3 months of online teaching – what I learned'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Record 3rd YouTube video (trending exam topic)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Promote YouTube channel in all groups",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Announce next cohort batch with full price",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Set up Topmate or Razorpay page for bookings",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Post: 'Book a 1-on-1 session – ₹500/hour'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Follow up with all past demo attendees",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Conduct 2–3 paid 1-on-1 sessions",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "Week 13 review: income, students, YouTube subscribers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "Explore launching a recorded course (₹999–2,999)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Outline recorded course content (5–10 modules)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "Record Module 1 of online course",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "Review Day 90: total students, income, platform growth",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "online-tuition",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Choose POD niche: meme culture, profession-based, regional, pets",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Study 5 similar Instagram niche pages – what sells?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "Create Canva free account",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Design T-shirt Graphic #1 (niche-relevant, bold text)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Design T-shirt Graphic #2 (illustration/icon style)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Design T-shirt Graphic #3 (minimal quote style)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Design 4 more graphics (total 7 designs)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Sign up for Qikink or Blinkstore (free)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Upload all 7 designs, create product listings",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "Order 1 sample t-shirt (quality check – ₹500–700)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Photograph sample shirt on self or mannequin",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Create Instagram page: name, bio, profile photo",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "Post first 3 product photos on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Write captions with niche hashtags",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Post first reel: 'Design process – how I make niche tees'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Share launch announcement to 50 WhatsApp contacts",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Reach out to 1 micro-influencer in your niche for barter",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Design 3 more graphics (total 10)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Post 3 new products on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "Week 3 review: followers, first orders?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Study trending niche topics for new design ideas",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Design 5 more graphics based on trending themes",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Post reel: 'New drop – 5 designs for [niche] lovers'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Follow up with influencer on barter collaboration",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Create a WhatsApp group for niche community",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "Invite 20 interested followers to WhatsApp group",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Share exclusive discounts in WhatsApp group",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: orders, top design, revenue?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Post: 'Customer review' (ask first buyer to share photo)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Create 'how to order' step-by-step Instagram story",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Run a 'tag a friend' giveaway (shirt as prize)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "Design 5 more graphics – festival/seasonal themes",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Post reel: 'Making merch for [niche] in 2026'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Engage with 20 niche accounts (comment, follow)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Week 5 review: giveaway ROI, new followers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "List products on Etsy (international market)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Etsy listing optimization – keywords, pricing",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Post: 'My shirts are now on Etsy!'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Design 3 mug designs for niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Add mugs to POD store",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Post mug products on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Week 6 review: income target ₹5,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Study bestselling designs – double down on what works",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Create 5 designs based on bestseller style",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Post reel: 'Top 5 tees this month – grab yours'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Reach out to 2 more micro-influencers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "Create a 'bundle offer': shirt + mug combo",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Post bundle deal on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Week 7 review: Etsy orders? India orders?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Run first paid Instagram ad (₹200 budget, 3 days)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Track ad results: clicks, orders, ROI",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Analyze ad data, refine targeting",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Design poster/art prints for niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Add posters to POD store",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'New product: niche art prints now available'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Week 8 review: income, best platform, best product",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "Design hoodie/sweatshirt version of top 3 designs",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Add hoodies to store",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Post hoodie drop reel",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "Apply to Merch by Amazon (India)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Week 9 review: multi-platform presence",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Study competition on Etsy – improve listing SEO",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Update all Etsy listings with better keywords",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Behind the scenes – running a POD store'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Run 2nd paid ad with refined targeting (₹300)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Analyze ad ROI, scale if positive",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "Design seasonal/festival collection (5 designs)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Launch seasonal collection with reel",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "Week 10 review: revenue target ₹20,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Month 2 POD journey – what I learned'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Study Printful for international POD expansion",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Engage top 50 niche followers to build community",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Create exclusive 'early access' WhatsApp drop",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Design 5 new premium designs at higher price point",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Post premium collection with premium photography",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Week 11 review: premium tier sales?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Collect all reviews, post on Instagram stories",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Study what Etsy customers leave reviews about",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "Improve packaging insert card design",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "Post: '3 months of selling merch online – full honest review'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Plan next 3-month niche product expansion",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "Design limited edition drop (5 designs, numbered)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "Create scarcity: 'Only 20 pieces each'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "Launch limited edition drop with countdown",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "Week 13 review: total revenue, best platform, top design",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "Review Day 90: designs created, total orders, net profit",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "print-on-demand",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Choose reselling niche: clothes, accessories, skincare, home",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Research 3 wholesale markets/suppliers online",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "Visit or browse supplier catalogs, note price & MOQ",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Place initial order: ₹3,000–5,000 (5–10 items only)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Receive items, check quality one by one",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Set up WhatsApp Business account + catalog",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Create Instagram account: name, bio, profile photo",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Set up a white-wall background for product photos",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Photograph all 10 products (front, back, detail shots)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "Edit photos using Snapseed (free)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Write product descriptions for all 10 items",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Add products to WhatsApp Business catalog",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "Post first 3 products on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Send WhatsApp launch announcement to 50 contacts",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Ask 5 friends/family to share your page",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Target: first 5 sales this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Restock the 2 fastest-selling items",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Post 3 new products on Instagram",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Create Instagram Highlight: 'How to Order'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "Create Instagram Highlight: 'Reviews'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Post: 'What's new in stock' story series",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Research 2 new wholesale suppliers for variety",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Follow up with all prospects who showed interest",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: sales, top product, profit margin",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Double order of best-selling item",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "Drop slow-selling items at discount to clear stock",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Post: 'Weekend sale – 20% off selected items'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Create a referral offer: 'Refer a friend, get ₹50 off'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Set up UPI payment system + order tracking note",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Send 'thank you' message to all buyers with next order discount",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Post unboxing video of new stock (Instagram Reel)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "Analyze: which products sold most? Order more",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Test a new product category (e.g. add accessories to clothes)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Set up packaging: poly bags, thank-you cards",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Post: 'Behind the scenes – how I pack orders'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "Create WhatsApp broadcast list for regular buyers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Send broadcast: 'New arrivals + exclusive early access'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Week 6 review: revenue target ₹15,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Source 2 new products from a different supplier",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Post 'customer review' screenshot on stories",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Create 'best sellers' Instagram highlight",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Post a reel: '5 ways to style [product]'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Run a limited-time combo offer (2 items = discount)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Track inventory: which items are running low?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Restock top 3 selling products",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Post: 'Exclusive drop – only 10 pieces available'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "Week 8 review: income, stock, best supplier",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Start building a 'loyal buyer' WhatsApp group",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Give loyal buyers early access to new arrivals",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Study competitor Instagram pages: pricing & style",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Improve product photos using ring light",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Month 2 – my reselling journey'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Approach 1 more supplier for better pricing",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Negotiate bulk discount with main supplier",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Create a simple product catalog PDF (send to prospects)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'How to order from me' step-by-step reel",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "Run weekend Instagram giveaway to grow followers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Week 10 review: followers, sales, repeat buyers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Add new product category based on buyer feedback",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "Create Instagram Shopping setup",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Apply for Instagram Shopping account verification",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'New category launch' announcement reel",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Reach out to 2 micro-influencers for barter collab",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Send free product to influencer for review",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Post influencer review on your page",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Week 11 review: influencer ROI, new followers",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "Track total profit from Day 1: target ₹25,000 net",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Set up a simple Excel inventory tracker",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "Create 'return/exchange policy' document",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Month 3 update – what I've learned'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Source new products for next season/trend",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Run flash sale: 'Last pieces at clearance price'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Reorder bestsellers in higher quantity for better margin",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Study private labeling: can you add your brand?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Create a simple brand logo (Canva)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Update Instagram bio with brand name",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Week 13 review: total revenue, top products, next goal",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Research Meesho / Dukaan for expanded reach",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "List top 5 products on Meesho",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "Plan Month 4: target ₹40,000/month revenue",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Review Day 90: sales, profit, lessons, scale plan",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "reselling",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Choose SMM niche (restaurants, coaches, clinics, etc.)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Study 5 Instagram pages in your niche – what works?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "List 3 SMM service packages with pricing",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Create a Canva portfolio template (mock brand page)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Design 3 sample posts for a fictional brand",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Design 2 sample reels covers + captions",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Update your Instagram bio to 'Social Media Manager'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Create a list of 30 local businesses needing SMM",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Approach Business #1 with free 2-week trial offer",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "Approach Business #2 with free 2-week trial offer",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Set up Notion content calendar template",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Design + schedule 5 posts for trial client",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "Create caption templates for 5 post types",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Post your own page: 'What is SMM and why it matters'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Review trial client performance after 2 weeks",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Prepare results PDF for trial client (engagement stats)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Convert trial client to paid (₹8,000–15,000/month)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Approach 5 more local businesses via DM",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Set up Meta Business Suite for client #1",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "Create 4 reels for client #1 this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Post your page: 'Before vs After – SMM results'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Follow up with all pending business outreach",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Send contract to first paying client",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Create onboarding questionnaire for new clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Set up content calendar for client #1 (30 days)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "Design 15 posts for client #1 in batch",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Schedule all 15 posts using Meta Business Suite",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: client satisfaction check-in",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Pitch client #1 on upgrading to standard package",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Approach 5 new businesses (different sub-niche)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Post your page: 'Month 1 SMM journey update'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "Study competitor SMM agencies – pricing & services",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Create reel: 'How to grow Instagram for [niche]'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Onboard Client #2 if acquired, set up calendar",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Batch-create 15 posts for client #2",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "Collect first testimonial from client #1",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Post testimonial + results graphic on your page",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Approach 5 more businesses, focus on restaurants",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Set up WhatsApp Business for client communication",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Create monthly report template for clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Send Month 1 report to all active clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Approach 3 businesses via in-person visit",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Learn 1 new Canva feature or reel trend",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Design 5 reel concepts for client, get approval",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Film / edit reel for client (or guide them to film)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Week 6 review: how many clients? Revenue?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "Raise rates for new clients by 20%",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Pitch client #1 on DM management add-on",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Create a 'results deck' with all client stats",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Post: 'How I manage 2 clients as a solo SMM'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Approach 5 clinics or doctors for SMM",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Approach 3 real estate agents for SMM",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Onboard Client #3 if acquired",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Batch content for all 3 clients this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Week 8 review: income target ₹30,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Create reel: 'SMM tips for local businesses'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "Ask Client #2 for referral to 1 more business",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Study Instagram algorithm changes (latest)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Add stories strategy to client packages",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "Post: '3 clients, Month 2 – what I learned'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Send proposals to 3 businesses with case studies",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Create hashtag research doc for each client niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Review all client pages – what's working?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Improve underperforming post formats",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Reach out to 1 digital marketing agency for white-label",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Why every local business needs social media'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "Update service pricing page / package PDF",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Batch content for all clients – next 2 weeks",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "Check all client analytics, update monthly report",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Follow up on all pending proposals",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Post: 'SMM tools I use every day (free & paid)'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Pitch 4th client – target ₹50,000 revenue milestone",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Onboard Client #4 with full questionnaire + contract",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Set up content calendar for Client #4",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Week 11 review: refine systems & workflows",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Hire/explore 1 freelance designer for overflow",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Create SOP document for onboarding new clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Batch all client content for the month",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "Post: 'Day 75 – Running a mini SMM agency solo'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "Send invoices to all clients, track payments",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Follow up with any inactive leads from past months",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "Study Meta Ads basics for upsell opportunity",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "Pitch 1 client on Meta Ads management add-on",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "Review Day 90: clients, income, retention, next steps",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "Plan Month 4: target 5 clients = ₹1L/month",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "social-media-management",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 1,
+    "phase": "Research & Setup",
+    "title": "Download CapCut (mobile) or DaVinci Resolve (laptop)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 2,
+    "phase": "Research & Setup",
+    "title": "Watch 2hr tutorial: CapCut basics for reels",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 3,
+    "phase": "Research & Setup",
+    "title": "Download 3 raw videos from YouTube (legal stock)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 4,
+    "phase": "Research & Setup",
+    "title": "Edit Sample Reel #1 – educational talking head style",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 5,
+    "phase": "Research & Setup",
+    "title": "Edit Sample Reel #2 – trending audio + text overlay",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 6,
+    "phase": "Research & Setup",
+    "title": "Edit Sample Reel #3 – business promo style",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 7,
+    "phase": "Research & Setup",
+    "title": "Post your 3 samples on Instagram Reels page",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 8,
+    "phase": "Build Presence",
+    "title": "Watch tutorial: color grading basics (1 hr)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 9,
+    "phase": "Build Presence",
+    "title": "Re-edit Sample #1 with better color & captions",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 10,
+    "phase": "Build Presence",
+    "title": "List 30 mid-tier creators (10K–100K followers) in niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 11,
+    "phase": "Build Presence",
+    "title": "Study their content: what editing style do they use?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 12,
+    "phase": "Build Presence",
+    "title": "Write DM outreach template for creator outreach",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 13,
+    "phase": "Build Presence",
+    "title": "Send DMs to 10 creators offering 1 free edit",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 14,
+    "phase": "Build Presence",
+    "title": "Send DMs to 10 more creators",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 15,
+    "phase": "First Samples/Launch",
+    "title": "Create Fiverr gig: 'Reel Editor for Business Creators'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 16,
+    "phase": "First Samples/Launch",
+    "title": "Edit Sample Reel #4 – podcast clip highlight style",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 17,
+    "phase": "First Samples/Launch",
+    "title": "Edit Sample Reel #5 – motivational / voiceover style",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 18,
+    "phase": "First Samples/Launch",
+    "title": "Post: 'Before vs After reel edit' on your page",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 19,
+    "phase": "First Samples/Launch",
+    "title": "Follow up with creators who didn't reply (Day 13-14)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 20,
+    "phase": "First Samples/Launch",
+    "title": "Send DMs to 10 new creators in different niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 21,
+    "phase": "First Samples/Launch",
+    "title": "Watch tutorial: advanced transitions (1 hr)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 22,
+    "phase": "Active Outreach",
+    "title": "Deliver free edit to any creator who responded",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 23,
+    "phase": "Active Outreach",
+    "title": "Ask for feedback + testimonial after free delivery",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 24,
+    "phase": "Active Outreach",
+    "title": "Offer paid package to creator who loved free edit",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 25,
+    "phase": "Active Outreach",
+    "title": "Create Upwork profile + video editing proposal template",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 26,
+    "phase": "Active Outreach",
+    "title": "Apply to 5 video editing jobs on Upwork",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 27,
+    "phase": "Active Outreach",
+    "title": "Post: 'I edited 5 free reels – here's what I learned'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 28,
+    "phase": "Active Outreach",
+    "title": "Week 4 review: leads, responses, paid clients?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 29,
+    "phase": "Active Outreach",
+    "title": "Edit 2 more sample reels to expand portfolio",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 30,
+    "phase": "Active Outreach",
+    "title": "Reach out to 10 YouTube creators (5K–50K subs)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 31,
+    "phase": "Active Outreach",
+    "title": "Post your editing reel (compilation of your best work)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 32,
+    "phase": "Active Outreach",
+    "title": "Approach 3 local businesses about promo video editing",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 33,
+    "phase": "Active Outreach",
+    "title": "Apply to 5 more Upwork jobs",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 34,
+    "phase": "Active Outreach",
+    "title": "Follow up on all pending outreach",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 35,
+    "phase": "Active Outreach",
+    "title": "Deliver work for any paid client; get testimonial",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 36,
+    "phase": "First Customer",
+    "title": "Watch tutorial: audio mixing & sound design (1 hr)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 37,
+    "phase": "First Customer",
+    "title": "Create a 'Video Editing Packages' PDF",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 38,
+    "phase": "First Customer",
+    "title": "Send packages PDF to 5 warm prospects",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 39,
+    "phase": "First Customer",
+    "title": "Post: '30 days of video editing – my journey'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 40,
+    "phase": "First Customer",
+    "title": "Research YouTube Shorts editing niche",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 41,
+    "phase": "First Customer",
+    "title": "Edit 2 YouTube Shorts samples",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 42,
+    "phase": "First Customer",
+    "title": "Pitch YouTube Shorts editing to 5 creators",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 43,
+    "phase": "First Customer",
+    "title": "Improve Fiverr gig with new samples",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 44,
+    "phase": "First Customer",
+    "title": "Follow up with all unanswered DMs (2-week follow-up)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 45,
+    "phase": "First Customer",
+    "title": "Add testimonials to all profiles",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 46,
+    "phase": "First Customer",
+    "title": "Week 6 review: income? Revenue target ₹10,000?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 47,
+    "phase": "First Customer",
+    "title": "Raise rates by 15% for new clients",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 48,
+    "phase": "First Customer",
+    "title": "Post: 'How I edit a reel in under 2 hours'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 49,
+    "phase": "First Customer",
+    "title": "Pitch retainer to best client: '8 reels/month'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 50,
+    "phase": "First Customer",
+    "title": "Learn motion graphics: basic titles in CapCut",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 51,
+    "phase": "Iterate & Improve",
+    "title": "Create 2 samples with motion text/graphics",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 52,
+    "phase": "Iterate & Improve",
+    "title": "Pitch ad video editing to 3 small brands",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 53,
+    "phase": "Iterate & Improve",
+    "title": "Batch edit 4 reels for first retainer client",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 54,
+    "phase": "Iterate & Improve",
+    "title": "Send invoice + contract to retainer client",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 55,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Client case study – growth after professional editing'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 56,
+    "phase": "Iterate & Improve",
+    "title": "Approach 5 podcast creators for clip editing",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 57,
+    "phase": "Iterate & Improve",
+    "title": "Edit 1 podcast clip sample (15 min → 3 clips)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 58,
+    "phase": "Iterate & Improve",
+    "title": "Week 8 review: retainer secured? Income?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 59,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Month 2 – video editing freelance update'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 60,
+    "phase": "Iterate & Improve",
+    "title": "Join 2 Facebook groups for content creators",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 61,
+    "phase": "Iterate & Improve",
+    "title": "Introduce yourself + share portfolio in groups",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 62,
+    "phase": "Iterate & Improve",
+    "title": "Study competitor editors: pricing, samples",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 63,
+    "phase": "Iterate & Improve",
+    "title": "Raise prices for new gig orders",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 64,
+    "phase": "Iterate & Improve",
+    "title": "Deliver all pending work early",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 65,
+    "phase": "Iterate & Improve",
+    "title": "Ask 2 clients for referrals",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 66,
+    "phase": "Iterate & Improve",
+    "title": "Edit your own Instagram reel about editing tips",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 67,
+    "phase": "Iterate & Improve",
+    "title": "Watch tutorial: color grading for reels (advanced)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 68,
+    "phase": "Iterate & Improve",
+    "title": "Send new portfolio update to all warm leads",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 69,
+    "phase": "Iterate & Improve",
+    "title": "Apply to 5 video editing jobs on LinkedIn",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 70,
+    "phase": "Iterate & Improve",
+    "title": "Post: 'Top 5 mistakes in reel editing'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 71,
+    "phase": "Scale & Systems",
+    "title": "Pitch 2nd retainer client (different creator niche)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 72,
+    "phase": "Scale & Systems",
+    "title": "Batch edit all client content for the week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 73,
+    "phase": "Scale & Systems",
+    "title": "Week 10 review: 2 retainers = ₹40,000+?",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 74,
+    "phase": "Scale & Systems",
+    "title": "Research hiring 1 junior editor for overflow",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 75,
+    "phase": "Scale & Systems",
+    "title": "Create standard revision policy document",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 76,
+    "phase": "Scale & Systems",
+    "title": "Streamline editing workflow: create preset pack",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 77,
+    "phase": "Scale & Systems",
+    "title": "Sell your preset pack on Gumroad (₹299)",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 78,
+    "phase": "Scale & Systems",
+    "title": "Post: 'How I'm earning ₹40K/month editing videos'",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 79,
+    "phase": "Scale & Systems",
+    "title": "Onboard 3rd client if acquired",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 80,
+    "phase": "Scale & Systems",
+    "title": "Batch edit 3 clients' content this week",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 81,
+    "phase": "Scale & Systems",
+    "title": "Send all invoices, track payments",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 82,
+    "phase": "Scale & Systems",
+    "title": "Review Day 90: clients, income, skill growth",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 83,
+    "phase": "Scale & Systems",
+    "title": "Plan Month 4: target ₹75,000/month",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 84,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 85,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 86,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 87,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 88,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 89,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  },
+  {
+    "templateSlug": "video-editing",
+    "day": 90,
+    "phase": "Scale & Systems",
+    "title": "",
+    "defaultHours": 0
+  }
+]

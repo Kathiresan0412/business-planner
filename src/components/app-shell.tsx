@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { BriefcaseBusiness, CalendarRange, DollarSign, LayoutDashboard, Settings, Target } from "lucide-react";
 
+import { FollowUpCount } from "@/components/follow-up-count";
 import { UserMenu } from "@/components/user-menu";
 
 const navItems = [
@@ -35,6 +36,7 @@ export function AppShell({ children, userName }: { children: React.ReactNode; us
               >
                 <Icon className="h-4 w-4" />
                 {label}
+                {href === "/leads" ? <FollowUpCount /> : null}
               </Link>
             ))}
           </nav>
@@ -53,6 +55,7 @@ export function AppShell({ children, userName }: { children: React.ReactNode; us
             >
               <Icon className="h-4 w-4" />
               {label}
+              {href === "/leads" ? <FollowUpCount /> : null}
             </Link>
           ))}
         </nav>

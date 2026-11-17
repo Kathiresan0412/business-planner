@@ -1,11 +1,14 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import { loadEnvConfig } from "@next/env";
 import mongoose from "mongoose";
 import { z } from "zod";
 
 import { connectToDatabase } from "../src/lib/db";
 import BusinessTemplate from "../src/models/BusinessTemplate";
 import TemplateTask from "../src/models/TemplateTask";
+
+loadEnvConfig(process.cwd());
 
 const PHASES = [
   "Research & Setup",

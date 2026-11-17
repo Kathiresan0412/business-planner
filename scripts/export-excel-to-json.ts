@@ -12,6 +12,19 @@ const PHASES = [
   "Scale & Systems",
 ] as const;
 
+const SLUGS_BY_NUMBER: Record<number, string> = {
+  1: "content-writing",
+  2: "social-media-management",
+  3: "video-editing",
+  4: "reselling",
+  5: "online-tuition",
+  6: "print-on-demand",
+  7: "affiliate-marketing",
+  8: "digital-products",
+  9: "local-service-aggregator",
+  10: "freelance-web-dev",
+};
+
 const FILE_NAME = "Full_90Day_Business_Plan.xlsx";
 const ROOT_DIR = path.resolve(__dirname, "..");
 const DATA_DIR = path.join(ROOT_DIR, "data");
@@ -53,7 +66,13 @@ const parseDaysToFirstIncome = (value: unknown) => {
 const normalizePhase = (value: unknown) => {
   const text = String(value ?? "").trim();
   const phaseMatch = PHASES.find((phase) => phase.toLowerCase() === text.toLowerCase());
-  return phaseMatch ?? (text || "Research & Setup");
+  if (phaseMatch) {
+    return phaseMatch;
+  }
+  if (!text) {
+    return "Research & Setup";
+  }
+  throw new Error(`Unknown plan phase "${text}".`);
 };
 
 async function ensureDataDir() {
@@ -135,7 +154,7 @@ function extractTaskRows(sheetName: string) {
   const taskRows: Array<Record<string, string>> = [];
 
   for (const row of rows.slice(headerIndex + 1)) {
-    if (!Array.isArray(row) || row.length < 7) {
+    if (!Array.isArray(row) || row.length === 0) {
       continue;
     }
 
@@ -161,11 +180,14 @@ async function main() {
   const businessRows = getBusinessRows();
   const templates = businessRows.map((entry, index) => {
     const sheetName = entry.sheetName || `0${index + 1}. ${entry.name}`;
-    const slug = slugify((entry.name || sheetName).replace(/\s*\&\s*/g, " and ")) || `business-${index + 1}`;
+    const number = Number.parseInt(entry.number, 10) || index + 1;
+    const slug =
+      SLUGS_BY_NUMBER[number] ??
+      (slugify((entry.name || sheetName).replace(/\s*\&\s*/g, " and ")) || `business-${index + 1}`);
 
     return {
       slug,
-      number: Number.parseInt(entry.number, 10) || index + 1,
+      number,
       name: entry.name,
       investment: entry.investment,
       incomePotential: entry.incomePotential,

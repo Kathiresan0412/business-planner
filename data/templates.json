@@ -1,6 +1,6 @@
 [
   {
-    "slug": "content-writing-and-copywriting",
+    "slug": "content-writing",
     "number": 1,
     "name": "Content Writing & Copywriting",
     "investment": "₹0",
@@ -22,7 +22,7 @@
     "emoji": ""
   },
   {
-    "slug": "video-editing-services",
+    "slug": "video-editing",
     "number": 3,
     "name": "Video Editing Services",
     "investment": "₹0–₹3,000",
@@ -33,7 +33,7 @@
     "emoji": ""
   },
   {
-    "slug": "reselling-whatsapp-instagram",
+    "slug": "reselling",
     "number": 4,
     "name": "Reselling (WhatsApp/Instagram)",
     "investment": "₹3K–₹8K",
@@ -44,7 +44,7 @@
     "emoji": ""
   },
   {
-    "slug": "online-tuition-coaching",
+    "slug": "online-tuition",
     "number": 5,
     "name": "Online Tuition / Coaching",
     "investment": "₹0",
@@ -99,7 +99,7 @@
     "emoji": ""
   },
   {
-    "slug": "freelance-web-no-code-dev",
+    "slug": "freelance-web-dev",
     "number": 10,
     "name": "Freelance Web / No-Code Dev",
     "investment": "₹0–₹5,000",

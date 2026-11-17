@@ -11,6 +11,8 @@ npm run seed
 
 `export:excel` writes `data/templates.json` and `data/tasks.json`; `seed` upserts them into MongoDB. Start the app locally with `npm run dev`.
 
+The app includes email/password authentication, 90-day business plans and tasks, dashboard progress, income tracking, and a lead pipeline with follow-up reminders. Settings include profile preferences, password changes, JSON export, and account deletion. Data operations are scoped to the signed-in user.
+
 ## Getting Started
 
 First, run the development server:
